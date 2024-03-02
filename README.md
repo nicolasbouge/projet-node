@@ -6,7 +6,7 @@ Vous pouvez gérer une bibliothèque de films et d'utilisateurs qui peuvent mett
 
 - Node.js (v20)
 - docker
-- Etheral : https://ethereal.email/
+- Ethereal : https://ethereal.email/
 
 ## Installation du projet :
 

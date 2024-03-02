@@ -24,3 +24,7 @@ Vous pouvez gérer une bibliothèque de films et d'utilisateurs qui peuvent mett
 - Démarrez le serveur : npm start
 - Le serveur est maintenant accessible à l'adresse `http://localhost:3000
 - Vous pouvez accéder à la documentation de l'API à l'adresse `http://localhost:3000/documentation`
+
+## Important
+
+- Pour pouvoir se connecter sur l'application il faut générer un token puis le copier, cliquer sur le cadenat et ensuite écrire 'Bearer' suivi du token.
